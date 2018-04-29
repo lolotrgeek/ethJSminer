@@ -1,0 +1,16 @@
+{
+  "name": "ethjsminer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^14.5.0",
+    "ethereumjs-testrpc": "^6.0.3",
+    "ethereumjs-vm": "^2.3.2"
+  }
+}
